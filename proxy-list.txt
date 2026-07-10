@@ -2,9 +2,4 @@ proxyip.us.hw.090227.xyz,US
 proxyip.digitalocean.hw.090227.xyz,US
 89.169.34.99,SWE
 135.125.191.9,GER
-45.55.113.30,US-DI
-45.55.113.70,US-DI
-99.83.209.185,US-ASW
-140.238.64.65,UK
-45.12.70.77,Fin
-104.16.132.229,cl
+engage.cloudflareclient.com,warp
