@@ -7,3 +7,4 @@ proxyip.digitalocean.hw.090227.xyz,US
 99.83.209.185,US-ASW
 140.238.64.65,UK
 45.12.70.77,Fin
+104.16.132.229,cl
