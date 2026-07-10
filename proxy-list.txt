@@ -3,4 +3,4 @@ proxyip.digitalocean.hw.090227.xyz,US
 89.169.34.99,UK-AEZA
 135.125.191.9,GER
 116.202.132.205,GER
-45.55.109.73,dgi
+45.55.111.61,dgi
