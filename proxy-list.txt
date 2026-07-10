@@ -2,6 +2,5 @@ proxyip.us.hw.090227.xyz
 proxyip.digitalocean.hw.090227.xyz
 156.146.53.83
 99.83.209.185
-72.13.122.137
 140.238.64.65
 
