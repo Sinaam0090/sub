@@ -10,4 +10,4 @@ proxyip.digitalocean.hw.090227.xyz,US
 34.104.218.57,japan
 3.29.240.49,UAE
 35.241.172.224,ROM
-15.190.244.5,twi
+23.228.248.3,twi
