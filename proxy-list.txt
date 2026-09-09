@@ -6,4 +6,4 @@ proxyip.digitalocean.hw.090227.xyz,US
 89.106.78.217,GER
 77.239.98.122,GER
 3.29.240.49,UAE
-99.83.109.205,italy
+
